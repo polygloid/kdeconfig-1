@@ -9,8 +9,9 @@ STEPS:
 2. install plasmoids
 3. install font from https://www.cufonfonts.com/font/sf-pro-display
 4. install the latte theme i have here
-5. open latte dock, right click the dock, and click on layouts
-6. press "Import" on it and add the layout
+5. add plasmoids to Home/.local/share/plasma/plasmoids
+6. open latte dock, right click the dock, and click on layouts
+7. press "Import" on it and add the layout
 OPTIONAL: install my wallpaper if you want the menubar to be fully black, you can edit it and switch the image to whatever you want and keep the black bar
 
 it should work from here
